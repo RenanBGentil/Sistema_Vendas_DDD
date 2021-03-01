@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.deps.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.dev.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfo.cs
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CopyComplete
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.genruntimeconfig.cache

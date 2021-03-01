@@ -1,0 +1,9 @@
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Dominio\bin\Debug\netcoreapp2.2\Dominio.deps.json
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Dominio\bin\Debug\netcoreapp2.2\Dominio.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Dominio\bin\Debug\netcoreapp2.2\Dominio.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Dominio\obj\Debug\netcoreapp2.2\Dominio.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Dominio\obj\Debug\netcoreapp2.2\Dominio.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Dominio\obj\Debug\netcoreapp2.2\Dominio.AssemblyInfo.cs
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Dominio\obj\Debug\netcoreapp2.2\Dominio.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Dominio\obj\Debug\netcoreapp2.2\Dominio.pdb
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\Dominio\obj\Debug\netcoreapp2.2\Dominio.csproj.CoreCompileInputs.cache

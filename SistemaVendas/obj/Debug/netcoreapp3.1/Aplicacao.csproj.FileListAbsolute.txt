@@ -1,0 +1,9 @@
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\Aplicacao.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\Aplicacao.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\Aplicacao.AssemblyInfo.cs
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\Aplicacao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\Aplicacao.TagHelpers.input.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\Aplicacao.TagHelpers.output.cache
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\Aplicacao.dll
+C:\Users\renan\Desktop\ASP.NETCoreWebAPIv2\SistemaVendas\SistemaVendas\obj\Debug\netcoreapp3.1\Aplicacao.pdb
